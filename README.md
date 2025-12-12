@@ -1,7 +1,5 @@
 1. Clone the Repository
-`git clone https://github.com/emilesherrott/zip-weather-fetcher.git`
-`cd zip-weather-fetcher`
-
+`git clone https://github.com/emilesherrott/zip-weather-fetcher-remote-sql.git`
 2. Create a Virtual Environment (Recommended)
 
 It’s best to run the project in a virtual environment to manage dependencies.
