@@ -1,0 +1,9 @@
+{
+    "postcode": "N17",
+    "current_weather": {
+        "temp_C": "12",
+        "temp_F": "54",
+        "weather_desc": "Light drizzle and rain",
+        "humidity": "88"
+    }
+}
